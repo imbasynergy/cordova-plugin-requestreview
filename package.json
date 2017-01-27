@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-requestreview",
+  "version": "0.0.4",
+  "description": "Cordova plugin to ask the user to rate or review your app, if appropriate. The system handles the entire process for you. Supports iOS 10.3 and greater.",
+  "cordova": {
+    "id": "cordova-plugin-requestreview",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getsafe/cordova-plugin-requestreview.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "rating",
+    "review",
+    "ios"
+  ],
+  "author": "Christian Welk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getsafe/cordova-plugin-requestreview/issues"
+  },
+  "homepage": "https://github.com/getsafe/cordova-plugin-requestreview#readme"
+}
